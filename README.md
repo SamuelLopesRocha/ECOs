@@ -10,10 +10,10 @@ A ideia desses questionários é que a psicóloga já tenha uma noção inicial 
 
 ## 👥 Desenvolvedores
 
-- **Marcelo Henrique Nunes** – RA: 2401746 (ADS)  
-- **Matheus de Queiroz Mendanha** – RA: 2401758 (SI)  
-- **Nicolas Macedo de Brito** – RA: 2401675 (ADS)  
-- **Samuel Lopes Gomes da Rocha** – RA: 2401406 (ADS)  
+- Marcelo Henrique Nunes – RA: 2401746 (ADS)  
+- Matheus de Queiroz Mendanha – RA: 2401758 (SI)  
+- Nicolas Macedo de Brito – RA: 2401675 (ADS)  
+- Samuel Lopes Gomes da Rocha – RA: 2401406 (ADS)
 
 ---
 
@@ -23,27 +23,27 @@ A ideia desses questionários é que a psicóloga já tenha uma noção inicial 
 - Resumo sobre transtornos psicológicos  
 - Informações sobre transtornos mentais  
 - Questionários para autoavaliação psicológica  
-- Agendamento de consultas  
+- Agendamento de consultas
 
 ---
 
 ## 🖼️ Telas do App
 
-1. **Tela de Login**  
-   Permite ao paciente acessar sua conta com segurança.
+**1. Tela de Login**  
+Permite ao paciente acessar sua conta com segurança.
 
-2. **Tela de Informações**  
-   Exibe conteúdos semanais sobre transtornos psicológicos, como ansiedade, depressão, transtorno alimentar, entre outros.
+**2. Tela de Informações**  
+Exibe conteúdos semanais sobre transtornos psicológicos, como ansiedade, depressão, transtorno alimentar, entre outros.
 
-3. **Tela de Questionário**  
-   Questionário simples com perguntas que geram um pré-relatório para a psicóloga, ajudando no primeiro atendimento.
+**3. Tela de Questionário**  
+Questionário simples com perguntas que geram um pré-relatório para a psicóloga, ajudando no primeiro atendimento.
 
-4. **Tela de Agendamento**  
-   Permite ao paciente selecionar dia e horário para consultas (presenciais ou online).
+**4. Tela de Agendamento**  
+Permite ao paciente selecionar dia e horário para consultas (presenciais ou online).
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Kotlin**  
-- **Android Studio**
+- Kotlin  
+- Android Studio
