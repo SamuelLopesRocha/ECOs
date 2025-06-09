@@ -11,7 +11,6 @@ A ideia desses questionários é que a psicóloga já tenha uma noção inicial 
 ## 👥 Desenvolvedores
 
 - Marcelo Henrique Nunes – RA: 2401746 (ADS)  
-- Matheus de Queiroz Mendanha – RA: 2401758 (SI)  
 - Nicolas Macedo de Brito – RA: 2401675 (ADS)  
 - Samuel Lopes Gomes da Rocha – RA: 2401406 (ADS)
 
