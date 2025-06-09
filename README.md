@@ -16,6 +16,12 @@ A ideia desses questionários é que a psicóloga já tenha uma noção inicial 
 
 ---
 
+## Apresentação do projeto via Slides
+
+-https://view.genially.com/683edd266d9048425e732060/interactive-content-desenvolvimento-mobile
+
+---
+
 ## 📱 Funcionalidades
 
 - Login de pacientes  
